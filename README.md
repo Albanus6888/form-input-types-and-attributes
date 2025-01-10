@@ -8,9 +8,9 @@ Features
 
 # User registration section with fields for:
 
-### Name
-### Email
-### Password
+ Name
+ Email
+ Password
 
 
 # Review submission section with:
