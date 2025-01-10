@@ -42,7 +42,7 @@ Features
 ##### Create a secure password
 
 
-# Complete the "Your Review" section:
+## Complete the "Your Review" section:
 
 ##### Select a country from the dropdown menu
 
