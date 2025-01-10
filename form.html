@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <form>
+        <!-- Your Details Section -->
+        <fieldset>
+            <legend>Your Details</legend>
+            <label for="name">Name:</label>
+            <input type="text" id="name" placeholder="Enter your name" required><br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" placeholder="Enter your email" required><br><br>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" placeholder="Create a password" required>
+            <p id="password-hint"></p>
+        </fieldset>
+
+        <!-- Your Review Section -->
+        <fieldset>
+            <legend>Your Review</legend>
+            <p>Countries:</p>
+            <label for="country">Select a country:</label>
+            <select id="country">
+                <option value="" disabled selected>Select a country</option>
+                <option value="usa">USA</option>
+                <option value="uk">UK</option>
+                <option value="canada">Canada</option>
+                <option value="australia">Australia</option>
+            </select>
+            <p id="country-output"></p>
+        </fieldset>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>
