@@ -8,9 +8,9 @@ Features
 
 # User registration section with fields for:
 
- Name
- Email
- Password
+ ##### Name
+ ##### Email
+ ##### Password
 
 
 # Review submission section with:
@@ -18,33 +18,33 @@ Features
 # Country selection dropdown
 
 
-### Clean, minimalist interface
-### Basic form validation
-### Single-page submission process
+##### Clean, minimalist interface
+##### Basic form validation
+#####  Single-page submission process
 
 # Form Fields
 # User Details Section
 
-### Name: Text input for entering user's name
-### Email: Email input field for user's email address
-### Password: Secure password creation field
+##### Name: Text input for entering user's name
+##### Email: Email input field for user's email address
+##### Password: Secure password creation field
 
 # Review Section
 
-### Countries: Dropdown menu for selecting the country being reviewed
+##### Countries: Dropdown menu for selecting the country being reviewed
 
 # Usage
 
-### Fill in the "Your Details" section:
+##### Fill in the "Your Details" section:
 
-### Enter your name
-### Provide your email address
-### Create a secure password
+##### Enter your name
+##### Provide your email address
+##### Create a secure password
 
 
 # Complete the "Your Review" section:
 
-### Select a country from the dropdown menu
+##### Select a country from the dropdown menu
 
 
-### Click the "Submit" button to send your review
+##### Click the "Submit" button to send your review
